@@ -9,7 +9,9 @@ import java.util.List;
 
 @RestController
 public class EnumController {
-
+static {
+    System.out.println("hello");
+}
     public static void main(String[] args) {
 
         List <String> list = new ArrayList<>( );
