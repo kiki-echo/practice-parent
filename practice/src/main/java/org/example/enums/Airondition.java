@@ -1,16 +1,16 @@
 package org.example.enums;
 
 public enum Airondition {
-    one{
+    ONE{
 
         public void print(){
             System.out.println("one");
         };
 
     },
-    two{
+    TWO{
         public void print(){
-            System.out.println("one");
+            System.out.println("two");
         };
     };
 
