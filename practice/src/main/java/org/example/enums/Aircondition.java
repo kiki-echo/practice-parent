@@ -1,6 +1,6 @@
 package org.example.enums;
 
-public enum Airondition {
+public enum Aircondition {
     ONE{
 
         public void print(){

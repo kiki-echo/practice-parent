@@ -1,7 +1,7 @@
 package org.example.contoller;
 
 
-import org.example.enums.Airondition;
+import org.example.enums.Aircondition;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
@@ -17,7 +17,7 @@ public class EnumController {
         list.add("TWO");
         list.stream().forEach( l->{
             System.out.println(l);
-            Airondition.valueOf(l).print();
+            Aircondition.valueOf(l).print();
         });
 
 
