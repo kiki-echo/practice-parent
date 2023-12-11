@@ -4,43 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb25189-9d32-4e92-ac73-dbd2c2849142" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/domain/TProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/mapper/TProductMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/service/TProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/service/impl/TProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="3fb25189-9d32-4e92-ac73-dbd2c2849142" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/org/example/PracticeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/PracticeApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/src/main/java/org/example/contoller/EnumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/contoller/EnumController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/target/classes/org/example/PracticeApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/target/classes/org/example/contoller/EnumController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/target/classes/org/example/enums/Aircondition$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/target/classes/org/example/enums/Aircondition$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/target/classes/org/example/enums/Aircondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/org/example/domain/TProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/domain/TProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +60,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/mind/practice-parent/practice/src/main/java/org/example",
+    "last_opened_file_path": "E:/mind/practice-parent/practice/src/main/java/org/example/domain",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mind\practice-parent\practice\src\main\java\org\example\domain" />
       <recent name="E:\mind\practice-parent\practice\src\main\java\org\example" />
     </key>
   </component>
@@ -157,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701935265684</updated>
       <workItem from="1701935266818" duration="6246000" />
-      <workItem from="1702276192517" duration="7292000" />
+      <workItem from="1702276192517" duration="8181000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1701940070719</created>
@@ -173,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702277193901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1702285048928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702285048928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1702285078193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702285078193</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +176,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

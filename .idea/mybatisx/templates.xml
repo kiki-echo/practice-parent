@@ -75,6 +75,7 @@
               </list>
             </option>
             <option name="templatesName" value="mybatis-plus3" />
+            <option name="useActualColumns" value="true" />
             <option name="useLombokPlugin" value="true" />
           </GenerateConfig>
         </option>
