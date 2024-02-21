@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb25189-9d32-4e92-ac73-dbd2c2849142" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_12_11_14_51_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_12_11_14_51__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/org/example/contoller/EnumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/contoller/EnumController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/org/example/contoller/VolatileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/contoller/VolatileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/target/classes/org/example/contoller/EnumController.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice/target/classes/org/example/contoller/EnumController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +143,8 @@
       <workItem from="1703788323110" duration="776000" />
       <workItem from="1704263069651" duration="3267000" />
       <workItem from="1705560475958" duration="8827000" />
-      <workItem from="1706514305429" duration="3027000" />
+      <workItem from="1706514305429" duration="4572000" />
+      <workItem from="1708412449087" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1701940070719</created>
@@ -185,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702285971039</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1707096028376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707096028377</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
