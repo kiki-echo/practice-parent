@@ -1,4 +1,4 @@
-package org.example.contoller;
+package org.example.demo;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -41,6 +41,6 @@ public class VolatileDemo {
             map.put(i,i+"");
 
         }
-map.entrySet().stream().filter(s->s.getKey()>8).collect(Collectors.toMap());
+//map.entrySet().stream().filter(s->s.getKey()>8).collect(Collectors.toMap());
     }
 }

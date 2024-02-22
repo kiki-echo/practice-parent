@@ -1,4 +1,4 @@
-package org.example.contoller;
+package org.example.demo;
 
 public class ThreadDead {
     public static Object o1=new Object();
