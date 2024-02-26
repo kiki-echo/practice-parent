@@ -1,16 +1,46 @@
 package org.example.demo;
 
+import org.springframework.web.server.session.HeaderWebSessionIdResolver;
+
 import java.io.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 public class FileCtl {
-    public static final String IS_PATH ="/Users/zhangweilong/Code/practice-parent/practice/src/main/java/org/example/demo/p26-串讲3.mp4";
+    public static final String IS_PATH ="/Users/zhangweilong/Code/practice-parent/practice/src/main/java/org/example/demo/a.txt";
     public static final String OS_PATH ="/Users/zhangweilong/Code/practice-parent/practice/src/main/java/org/example/demo/";
     public static void main(String[] args) throws Exception {
 
-        copy1();
-        copy2();
-        copy3();
-        copy4();
+//        copy1();
+//        copy2();
+//        copy3();
+//        copy4();
+
+        BufferedReader br=new BufferedReader(new FileReader(IS_PATH));
+        List<String> list=new ArrayList<>();
+        String line;
+        while ((line=br.readLine())!=null){
+            list.add(line);
+        }
+
+        List<Character>l=new ArrayList<>();
+        Collections.addAll(l,'一','二','三');
+        Collections.sort(list, new Comparator<String>() {
+            @Override
+            public int compare(String s1, String s2 ){
+//                System.out.println(s1.charAt(0));
+//                System.out.println(s2.charAt(0));
+//                System.out.println(l.indexOf(s1.charAt(0)));
+
+                int i = l.indexOf(s1.charAt(0))-l.indexOf(s2.charAt(0));
+                return i;
+            }
+        });
+        System.out.println(list);
+
+
 
     }
 
