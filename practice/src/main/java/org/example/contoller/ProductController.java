@@ -8,15 +8,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 @RestController
-public class EnumController {
+@RequestMapping("product")
+public class ProductController {
+    @RequestMapping("query")
+    public String getProduct(){
+return "success";
+    }
 
     @Resource
     TProductMapper tProductMapper ;
@@ -33,6 +33,4 @@ public class EnumController {
 
 return tProduct;
     }
-
-
 }

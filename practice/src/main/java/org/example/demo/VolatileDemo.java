@@ -41,6 +41,5 @@ public class VolatileDemo {
             map.put(i,i+"");
 
         }
-//map.entrySet().stream().filter(s->s.getKey()>8).collect(Collectors.toMap());
     }
 }
