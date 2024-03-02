@@ -4,6 +4,7 @@ package org.example.contoller;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import org.example.domain.TProduct;
 import org.example.mapper.TProductMapper;
+import org.jetbrains.annotations.TestOnly;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -20,6 +21,7 @@ return "success";
 
     @Resource
     TProductMapper tProductMapper ;
+
 
     @RequestMapping("test")
     public List<TProduct> test(){
