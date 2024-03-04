@@ -1,38 +1,36 @@
 package org.example;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+
+import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
+import org.example.contoller.ProductController;
+import org.example.domain.TProduct;
+import org.example.mapper.TProductMapper;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+import javax.annotation.Resource;
+import java.util.List;
 
 /**
  * Unit test for simple App.
  */
-public class AppTest 
-    extends TestCase
+@SpringBootTest
+@RunWith(SpringRunner.class)
+public class AppTest
 {
-    /**
-     * Create the test case
-     *
-     * @param testName name of the test case
-     */
-    public AppTest( String testName )
-    {
-        super( testName );
+
+@Autowired
+ProductController productController;
+
+    @Test
+    public  void  productTest(){
+
+
+        System.out.println(productController.test());
+
     }
 
-    /**
-     * @return the suite of tests being tested
-     */
-    public static Test suite()
-    {
-        return new TestSuite( AppTest.class );
-    }
-
-    /**
-     * Rigourous Test :-)
-     */
-    public void testApp()
-    {
-        assertTrue( true );
-    }
 }

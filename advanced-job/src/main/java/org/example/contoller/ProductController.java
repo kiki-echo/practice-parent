@@ -27,11 +27,11 @@ return "success";
 
 
                 LambdaQueryWrapper<TProduct> lqw=new LambdaQueryWrapper<>();
-                lqw.eq(TProduct::getId,20);
+                lqw.eq(TProduct::getId,23);
                 List<TProduct> tProduct=tProductMapper.selectList(lqw);
                 System.out.println(tProduct);
-
-
 return tProduct;
     }
+
+
 }

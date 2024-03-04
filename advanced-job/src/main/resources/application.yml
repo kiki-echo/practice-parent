@@ -6,7 +6,7 @@ spring:
     driverClassName: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
     username: root
-    password: root
+    password: Ilike1998
     maxActive: 1000
     initialSize: 100
     maxWait: 60000
