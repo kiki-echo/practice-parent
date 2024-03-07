@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="practice" />
+        <module name="advanced-job" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="advanced-job" target="1.8" />
       <module name="practice" target="1.8" />
       <module name="practice-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="advanced-job" options="-parameters" />
       <module name="practice" options="-parameters" />
       <module name="practice-parent" options="" />
     </option>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<property>
+<name>fs.obs.buffer.dir</name>
+<value>${java.io.tmpdir}/HBase/obs</value>
+</property>
+</configuration>

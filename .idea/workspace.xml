@@ -5,7 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb25189-9d32-4e92-ac73-dbd2c2849142" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/java/org/example/contoller/LoadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/java/org/example/utils/HBaseMRSUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/java/org/example/utils/LoginUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/client.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/connect-distributed.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/connect-standalone.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/consumer.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/core-site-client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/dns-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced-job/src/main/resources/conf/yarn-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/demo/ReflexDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-job/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-job/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/org/example/demo/SerializableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/org/example/demo/SerializableDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +128,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/mind/practice-parent/practice/src/main/java/org/example/domain&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/mind/practice-parent/advanced-job/src/main/resources&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -65,7 +137,7 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;8c40400c009918b5f10b73f9a0e47398&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4e8b3560c66c0189530ab85f1e856a76&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -76,17 +148,29 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mind\practice-parent\advanced-job\src\main\resources" />
+      <recent name="E:\mind\practice-parent\advanced-job\src\main\java\org\example\utils" />
       <recent name="E:\mind\practice-parent\practice\src\main\java\org\example\domain" />
       <recent name="E:\mind\practice-parent\practice\src\main\java\org\example" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\mind\practice-parent\advanced-job\src\main\resources\conf" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.VolatileDemo">
-    <configuration name="EnumController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.contoller.EnumController" />
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ReflexDemo.getClassConstructor">
+    <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.SerializableDemo" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.contoller.*" />
+          <option name="PATTERN" value="org.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +191,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflexDemo.getClassConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.ReflexDemo" />
+      <option name="METHOD_NAME" value="getClassConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.PracticeApplication" />
@@ -120,11 +220,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflexDemo.getClassConstructor" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.ReflexDemo" />
+      <option name="METHOD_NAME" value="getClassConstructor" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VolatileDemo" />
-        <item itemvalue="Application.EnumController" />
+        <item itemvalue="JUnit.ReflexDemo.getClassConstructor" />
+        <item itemvalue="TestNG.ReflexDemo.getClassConstructor" />
+        <item itemvalue="Application.SerializableDemo" />
         <item itemvalue="Spring Boot.PracticeApplication" />
+        <item itemvalue="Application.VolatileDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +264,11 @@
       <workItem from="1704263069651" duration="3267000" />
       <workItem from="1705560475958" duration="8827000" />
       <workItem from="1706514305429" duration="4572000" />
-      <workItem from="1708412449087" duration="599000" />
+      <workItem from="1708412449087" duration="4538000" />
+      <workItem from="1708936663334" duration="5655000" />
+      <workItem from="1709517494177" duration="6832000" />
+      <workItem from="1709793243881" duration="2902000" />
+      <workItem from="1709796174191" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1701940070719</created>
@@ -188,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707096028377</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1708478243764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708478243764</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -3,6 +3,7 @@ package org.example.demo;
 import org.example.domain.TProduct;
 
 import java.io.*;
+import java.math.BigInteger;
 
 public class SerializableDemo {
     public static void main(String[] args) throws Exception {
@@ -24,6 +25,16 @@ public class SerializableDemo {
 
 
 
+    }
 
+
+
+    public static String calculateFactorial(int n) {
+        BigInteger result = new BigInteger("1");
+        for (int i = 1; i <= n; i++) {
+            BigInteger iValue = new BigInteger(String.valueOf(i));
+            result = result.multiply(iValue);
+        }
+        return result.toString();
     }
 }
