@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>practice</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>practice</name>
     <url>http://maven.apache.org</url>

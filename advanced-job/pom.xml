@@ -104,30 +104,20 @@
         </dependency>
     </dependencies>
 
-
-        <!-- 远程仓库列表，将华为鲲鹏 Maven 仓库放在最前面 -->
+    <profiles>
+    <profile>
+        <id>huaweicloudsdk</id>
         <repositories>
             <repository>
-                <id>kunpengmaven</id>
-                <name>kunpeng maven</name>
-                <url>https://repo.huaweicloud.com/kunpeng/maven/</url>
-                <releases>
-                    <enabled>true</enabled>
-                </releases>
-                <snapshots>
-                    <enabled>true</enabled>
-                </snapshots>
-            </repository>
-            <!-- 其他 repository，配置其他 Maven 中央仓库，以华为云 Maven 为例 -->
-            <repository>
-                <id>huaweicloud</id>
-                <name>huaweicloud maven</name>
-                <url>https://repo.huaweicloud.com/repository/maven/</url>
-                <releases>
-                    <enabled>true</enabled>
-                </releases>
+                <id>huaweicloudsdk</id>
+                <url>https://repo.huaweicloud.com/repository/maven/huaweicloudsdk/</url>
+                <releases><enabled>true</enabled></releases>
+                <snapshots><enabled>true</enabled></snapshots>
             </repository>
         </repositories>
+    </profile>
 
+    </profiles>
 
 </project>
+
